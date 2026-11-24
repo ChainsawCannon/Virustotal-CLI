@@ -23,12 +23,12 @@ I would recommend using this program in an environment where scanning specific f
 This program depends on vt-py by VirusTotal and hashlib, please make sure these are installed before using
 
 # Manual
-The usage for this program is as follows 
--hp [filepath] directs files to print their SHA256 hash (originally made for testing purposes)
--hs [hash] scans a hash given
--fs [filepath] scans a file given
--url [url] scans a URL given
--about will spit out a nice about message! 
+The usage for this program is as follows:<br/>
+-hp [filepath] directs files to print their SHA256 hash (originally made for testing purposes)<br/>
+-hs [hash] scans a hash given<br/>
+-fs [filepath] scans a file given<br/>
+-url [url] scans a URL given<br/>
+-about will spit out a nice about message! <br/>
 You would execute the file as follows in the directory of the tool: python main.py -hp /home/user/file.txt (example for linux systems)
 # Things to work on and potential add-ons
 I would like to maybe make a gui version of this program to run natively on machines, if I somehow get my hands on a premium key I would also like to add tons of extra features!
