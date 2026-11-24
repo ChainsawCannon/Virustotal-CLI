@@ -14,7 +14,7 @@ Then a non-malicious file being scanned (in this case [YataiDON by YonoKid](http
 Then a sample URL (google.com) being scanned:
 <br/>![picture of google.com being scanned](https://chainsawcannon.neocities.org/images/googlescan.png)<br/>
 lastly, a known virus hash being scanned:
-![picture of a hash scan](https://chainsawcannon.neocities.org/images/hashscan.png)<br/>
+<br/>![picture of a hash scan](https://chainsawcannon.neocities.org/images/hashscan.png)<br/>
 
 These are the basic capabilities I focused on to automate the process of scanning files given in a cyberattack plus URLs accessed by machines incorporated into a command and control server.
 I would recommend using this program in an environment where scanning specific files is needed such as when going through a triage in a SIEM software (or on simulations like letsdefend). 
