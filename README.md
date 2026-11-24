@@ -33,8 +33,8 @@ You would execute the file as follows in the directory of the tool: python main.
 # Things to work on and potential add-ons
 I would like to maybe make a gui version of this program to run natively on machines, if I somehow get my hands on a premium key I would also like to add tons of extra features!
 # Credits
-[VirusTotal for vt-py library](https://github.com/VirusTotal/vt-py)
+[VirusTotal for vt-py library](https://github.com/VirusTotal/vt-py) <br/>
 [FreePythonCode for basic syntax for formatting](https://www.thiscodeworks.com/url-scanner-using-virustotal-api-python-coding-python-url-securty/6803711e01512a0014e81cfe)
 
-Thanks for reading, this was made with 💜 by ChainsawCannon/Shay (She/They)
+Thanks for reading, this was made with 💜 by ChainsawCannon/Shay (She/They)<br/>
 No AI was used in the creation of this tool. 
