@@ -12,7 +12,7 @@ below is Wanacry being scanned on the system:
 Then a non-malicious file being scanned (in this case [YataiDON by YonoKid](https://github.com/Yonokid/YataiDON))
 ![picture of non-malicious file scan](https://chainsawcannon.neocities.org/images/yataisample.png) <br/>
 Then a sample URL (google.com) being scanned:
-![picture of google.com being scanned](https://chainsawcannon.neocities.org/images/googlescan.png)<br/>
+<br/>![picture of google.com being scanned](https://chainsawcannon.neocities.org/images/googlescan.png)<br/>
 lastly, a known virus hash being scanned:
 ![picture of a hash scan](https://chainsawcannon.neocities.org/images/hashscan.png)<br/>
 
